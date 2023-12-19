@@ -9,7 +9,7 @@ yolov7's classic model to pytorch
 传送门
 
 ## Model
-[yolov7_samylee.weights, 提取码8888](https://pan.baidu.com/s/1UYZR4QV_WaWBJBWg0lxZVw)
+[yolov7_samylee.weights](https://pan.baidu.com/s/1UYZR4QV_WaWBJBWg0lxZVw), 提取码8888
 
 ## Reference
 https://github.com/AlexeyAB/darknet  
