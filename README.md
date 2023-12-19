@@ -12,5 +12,5 @@ yolov7's classic model to pytorch
 [yolov7_samylee.weights](https://pan.baidu.com/s/1UYZR4QV_WaWBJBWg0lxZVw), 提取码8888
 
 ## Reference
-https://github.com/AlexeyAB/darknet  
+https://github.com/WongKinYiu/yolov7  
 https://blog.csdn.net/samylee  
