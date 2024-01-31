@@ -9,7 +9,7 @@ yolov7's classic model to pytorch
 传送门
 
 ## Model
-[yolov7_samylee.weights](https://pan.baidu.com/s/1UYZR4QV_WaWBJBWg0lxZVw), 提取码8888
+[yolov7_samylee.pth](https://pan.baidu.com/s/1UYZR4QV_WaWBJBWg0lxZVw), 提取码8888
 
 ## Reference
 https://github.com/WongKinYiu/yolov7  
